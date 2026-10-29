@@ -64,7 +64,3 @@ olx-scraper/
 ## Disclaimer
 
 This project is for personal, educational use. Please respect OLX's terms of service and keep the polling interval reasonable.
-
-## License
-
-MIT
